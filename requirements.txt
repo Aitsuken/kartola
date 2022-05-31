@@ -1,0 +1,33 @@
+lombok
+spring boot
+maven
+apache tomcat
+postgresql
+postgresqldriver
+jparepository
+jdbc
+dependency injection
+service
+http requests
+mappings
+controllers
+rest api
+crud operations
+repository
+entity modelling
+java core
+java EE
+java beans
+java jvm
+react
+javascript
+UI
+bootstrap
+CSS tweet stylesheets
+spring starter
+spring thymeleaf(idle template)
+git
+vs code packages
+intellij idea plugin
+npm library
+ux npm
